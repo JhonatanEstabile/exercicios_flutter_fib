@@ -2,10 +2,10 @@ import 'package:exercicios_flutter_fib/components/resultadoCombustivel.dart';
 import 'package:flutter/material.dart';
 
 void main() {
-  runApp(LoginApp());
+  runApp(CombustivelApp());
 }
 
-class LoginApp extends StatelessWidget {
+class CombustivelApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
